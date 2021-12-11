@@ -6,3 +6,4 @@
 [Лекция 3](https://github.com/klyshinsky/AdvancedPython_2021_22/blob/main/lecture_20211002_software_design.pdf) - Введение в технологию разработки программного обеспечения.  
 [Лекция 4](https://github.com/klyshinsky/AdvancedPython_2021_22/blob/main/lecture_20211120_Inheritance.ipynb) - Наследование.  
 [Лекция 4, доп. материалы](https://github.com/klyshinsky/AdvancedPython_2021_22/blob/main/disambiguation_UDPipe_Spacy.ipynb) - Простое сравнение снятия омонимии на разных системах.  
+[Лекция 5](https://github.com/klyshinsky/AdvancedPython_2021_22/blob/main/lecture_20211210_design_patterns.ipynb) - Шаблоны проектирования программного обеспечения.  
